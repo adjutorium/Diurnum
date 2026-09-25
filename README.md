@@ -1,3 +1,5 @@
+[![Watch a one-minute video tour of diurnum](https://gitdiagram.com/video-badge.svg)](https://gitdiagram.com/adjutorium/diurnum/video)
+
 # Diurnum
 
 A local-first, FOSS desktop accounting app for technical operators. Your books are plain Beancount-compatible text files that you own. AI assists; you approve every change.
